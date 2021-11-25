@@ -25,6 +25,7 @@ function App() {
     if (e.target.id === 'startBtn') {
       setCorrectAnswers(0)
       setTimeElapsed(0)
+      handleCorrectAnswer()
     }
     if (e.target.id === 'stopBtn') {
       setIsFinished(true)
@@ -50,6 +51,9 @@ function App() {
         color: 'white',
       }}
     >
+      <h1 className='title' style={{ marginBottom: '100px' }}>
+        Speed Writing Test
+      </h1>
       {isActive ? (
         <div>
           <p>{`Time elapsed: ${timeElapsed || 0}`}</p>
