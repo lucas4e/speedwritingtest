@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speedwritingtest/static/css/main.f0591c20.chunk.css",
+    "main.js": "/speedwritingtest/static/js/main.a3878d7b.chunk.js",
+    "main.js.map": "/speedwritingtest/static/js/main.a3878d7b.chunk.js.map",
+    "runtime-main.js": "/speedwritingtest/static/js/runtime-main.e9f0521b.js",
+    "runtime-main.js.map": "/speedwritingtest/static/js/runtime-main.e9f0521b.js.map",
+    "static/js/2.26355be9.chunk.js": "/speedwritingtest/static/js/2.26355be9.chunk.js",
+    "static/js/2.26355be9.chunk.js.map": "/speedwritingtest/static/js/2.26355be9.chunk.js.map",
+    "static/js/3.aad7ddec.chunk.js": "/speedwritingtest/static/js/3.aad7ddec.chunk.js",
+    "static/js/3.aad7ddec.chunk.js.map": "/speedwritingtest/static/js/3.aad7ddec.chunk.js.map",
+    "index.html": "/speedwritingtest/index.html",
+    "static/css/main.f0591c20.chunk.css.map": "/speedwritingtest/static/css/main.f0591c20.chunk.css.map",
+    "static/js/2.26355be9.chunk.js.LICENSE.txt": "/speedwritingtest/static/js/2.26355be9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f0521b.js",
+    "static/js/2.26355be9.chunk.js",
+    "static/css/main.f0591c20.chunk.css",
+    "static/js/main.a3878d7b.chunk.js"
+  ]
+}
